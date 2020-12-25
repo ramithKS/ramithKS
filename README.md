@@ -15,14 +15,9 @@
 
 <br />
 
-### Languages and Tools:
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<br />
 <br />
 
-  <img align="left" alt="ramithKS's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ramithKS&show_icons=true&hide_border=true" />
+![Ramith's github stats](https://github-readme-stats.vercel.app/api?username=ramithKS&show_icons=true&theme=radical)
 
 [twitter]: twitter.com/ramithKS/
 [instagram]: https://www.instagram.com/ramith_gowda_kundoor/
