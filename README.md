@@ -20,7 +20,7 @@
 
 <br />
 
-![Ramith's github stats](https://github-readme-stats.vercel.app/api?username=ramithKS&show_icons=true&theme=radical)
+![ramithks's Stats](https://github-readme-stats.vercel.app/api?username=ramithks&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 [twitter]: twitter.com/ramithks/
 [instagram]: https://www.instagram.com/ramithks/
