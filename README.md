@@ -15,7 +15,6 @@ I'm Ramith K S, the founder and CEO of **[JustPoll](https://justpoll.app)**, A n
 ## 🛠️ Main Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-333?style=for-the-badge&logo=flutter)
-![React Native](https://img.shields.io/badge/-React%20Native-333?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
@@ -27,7 +26,7 @@ I'm Ramith K S, the founder and CEO of **[JustPoll](https://justpoll.app)**, A n
 ---
 
 ## 💻 Other Technologies
-
+![TypeScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
